@@ -1,7 +1,7 @@
 
-[![Discord server invite](https://invidget.switchblade.xyz/HMwbBZyEum?theme=dark&language=en)](http://discord.gg/HMwbBZyEum)
+[![Discord server invite (invite)](https://invidget.switchblade.xyz/HMwbBZyEum?theme=dark&language=en)](http://discord.gg/HMwbBZyEum)
 
-If invite link is dead, redeem new one from [our Discord server widget](https://discord.com/widget?id=854664216739577867&theme=dark).
+If invite link is dead, redeem new one from our Discord server widget: [invidget.switchblade.xyz](https://invidget.switchblade.xyz/854664216739577867?theme=dark&language=en) or [Vanilla](https://discord.com/widget?id=854664216739577867&theme=dark).
 
 ---
 
